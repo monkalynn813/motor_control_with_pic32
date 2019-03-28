@@ -43,6 +43,6 @@ This repo is a simple mechatronics project that uses PIC32 to control motor thro
 - orange line for actual performance of brushed motor
 ![cubic final](https://github.com/monkalynn813/motor_control_with_pic32/blob/master/img/cubic%20final.jpg) 
 
-##Demonstration Video
+## Demonstration Video
 - One can find Demo Video [here](https://youtu.be/KC1MuiPBfsM)
 
